@@ -1,5 +1,7 @@
 name: Cloud Composer Deployment For Prod. Manual tag trigger. 
 
+on: workflow_dispatch
+
 # on:
 #   push:
 #     branches: 
