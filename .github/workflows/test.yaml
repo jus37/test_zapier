@@ -3,7 +3,7 @@ name: Cloud Composer Deployment For Prod. Manual tag trigger.
 on:
   push:
     branches: 
-      - main
+      # - main
 
 jobs:
   dags_test:
